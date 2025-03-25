@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '32971'
     url: http://www.gutenberg.org/2009/agents/32971
     wikipedia: https://en.wikipedia.org/wiki/H._M._Brock
+covers:
+- cover_type: archival
+  image_path: 75461-h/images/cover.jpg
 creator:
   author:
     agent_name: Orczy, Emmuska Orczy, Baroness
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45
     wikipedia: https://en.wikipedia.org/wiki/Baroness_Orczy
 description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/The_Case_of_Miss_Elliott'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75461#The-case-of-Miss-Elliott
 gutenberg_issued: '2025-02-25'
 gutenberg_type: Text
 identifiers:
